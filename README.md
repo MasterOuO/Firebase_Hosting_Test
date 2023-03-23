@@ -2,7 +2,7 @@
 
 Web  
 開發工具:  
-前端框架: React  
+前端框架: Vue
 後端框架: Node.js  
 佈署: Firebase Hosting  
 
